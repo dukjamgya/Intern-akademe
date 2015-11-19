@@ -1,0 +1,127 @@
+.section1
+{
+    height: 564px;
+    padding-top: 215px;
+    color:white;
+}
+.header-cont
+{
+    height: 91px;
+    
+}
+.row1-header
+{
+    font-size: 34px;
+    font-weight: 600;
+    font-family: serif;
+}
+.row1-header-link
+{
+    text-decoration:none!important;
+    color: #F9F94E;
+}
+.row1-left
+{
+    color: #F7C80C;
+    font-family: cursive;
+    font-style: italic;
+}
+.row1-right
+{
+    padding-top: 33px;
+    float: right!important;
+}
+.row1-list1
+{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    float: right;
+    color: white;
+    letter-spacing: 1px
+}
+.row1-list1-l1
+{
+    display: inline;
+    margin-right: 24px;
+}
+.row1-list1-l2
+{
+    display: inline;
+    margin-right: 24px;
+}
+.row1-list1-l3
+{
+    display: inline;
+    margin-right: 24px;
+}
+.row1-list1-l4
+{
+    display: inline;
+    margin-right: 24px;
+}
+.row1-list1-l5
+{
+    display: inline;
+}
+.section1-list1
+{
+   text-align:center;
+   text-decoration:none;
+}
+.section1-list1-l1
+{
+    display: block;
+    font-size: 35px;
+    font-style: italic;
+    font-family: fantasy;
+}
+.section1-list1-l2
+{
+    display: block;
+    font-size: 75px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.section1-list1-l3
+{
+    display: block;
+}
+.section1-btn-cont
+{
+    width: 229px;
+    height: 68px;
+    background: #F7D931;
+    border: 0px;
+    border-radius: 4px;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 600;
+}
+.wallpaper-cover
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0.4;
+    background: #000;
+}
+.header-section1-holder
+{
+    position: absolute;
+    margin-left: 105px;
+    margin-right: 105px;
+    position: relative;
+   
+}
+.jumbotron-cont
+{
+    background: #F7D931!important;
+    height: 478px;
+    padding-top: 38px;
+}
+.carousel-cont
+{
+    padding-left: 255px;
+}
