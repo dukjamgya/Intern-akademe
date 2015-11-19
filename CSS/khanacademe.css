@@ -28,9 +28,9 @@
 {
     display: inline;
     color: white;
-    font-size: 19px;
+    font-size: 20px;
     font-weight: normal;
-    font-family: sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
     text-transform: uppercase;
 }
 .row1-list-subject
@@ -72,6 +72,8 @@
     background: transparent!important;
     text-align: center;
     display: block;
+    height: 594px;
+    margin-bottom: 0px!important;
 }
 .section1-list1
 {
@@ -107,9 +109,9 @@
 .section1-list2-header
 {
     color: white;
-    font-size: 46px;
+    font-size: 82px;
     font-weight: 600;
-    font-family: monospace;
+    font-family: 'Shadows Into Light', cursive;
 }
 .section1-list3-header
 {
@@ -161,6 +163,7 @@
     margin-top: 129px;
     background: #1EA4B9!important;
     height: 100%;
+    margin-top: 0px;
 }
 .section2-para1
 {
@@ -168,4 +171,5 @@
     color: white;
     text-transform: capitalize;
     font-size: 26px;
+    
 }
