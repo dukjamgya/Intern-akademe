@@ -12,12 +12,7 @@
     color: green;
     font-size: 18px!important;
 }
-.brand1-link
-{
-    color: white;
-    text-decoration: none!important;
-}
-.brand2-link
+.brand-link
 {
     color: white;
     text-decoration: none!important;
@@ -125,35 +120,52 @@
 .section1-btn1-cust
 {
     width: 291px;
+    letter-spacing: 0.3px!important;
     border-radius: 55px!important;
     color: white;
-    background:#1F841F!important;
-    border-color: #1F841F!important;
+    background: rgb(85, 144, 19)!important;
+    border-color: rgb(85, 144, 19)!important;
     height: 42px;
-    font-size: 19px!important;
+    font-size: 17px!important;
     font-weight: 600!important;
 }
 .section1-btn2-cust
 {
     width: 291px;
     border-radius: 55px!important;
+    letter-spacing: 0.3px!important;
     color: white;
     margin-top: 9px;
     background: transparent;
     border: 2px solid!important;
     height: 42px;
-    font-size: 19px!important;
+    font-size: 17px!important;
     font-weight: 600!important;
 }
 .section1-btn3-cust
 {
     width: 291px;
+    letter-spacing: 0.3px!important;
     border-radius: 55px!important;
     color: white;
     margin-top: 9px;
     background: transparent;
     border: 2px solid!important;
     height: 42px;
-    font-size: 19px!important;
+    font-size: 17px!important;
     font-weight: 600!important;
+}
+.section2
+{
+    position: relative;
+    margin-top: 129px;
+    background: #1EA4B9!important;
+    height: 100%;
+}
+.section2-para1
+{
+    padding-top: 187px;
+    color: white;
+    text-transform: capitalize;
+    font-size: 26px;
 }
