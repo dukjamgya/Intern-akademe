@@ -22,7 +22,7 @@
     display: inline;
     color: white;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 22px;
 }
 .row1-list-brand2
 {
@@ -72,7 +72,8 @@
     background: transparent!important;
     text-align: center;
     display: block;
-    height: 594px;
+    height: 883px;
+    padding-top: 114px!important;
     margin-bottom: 0px!important;
 }
 .section1-list1
@@ -164,12 +165,74 @@
     background: #1EA4B9!important;
     height: 100%;
     margin-top: 0px;
+    padding-top: 113px!important;
+    margin-bottom: 0px!important;
+    
 }
 .section2-para1
 {
-    padding-top: 187px;
+    padding-top: 251px;
     color: white;
     text-transform: capitalize;
-    font-size: 26px;
+    font-size: 26px!important;  
+}
+.section2-right
+{
+    padding-left: 75px;
+}
+.section2-row2
+{
+    margin-top: 0px;
+}
+.section2-row1-left
+{
+    padding-bottom: 56px;
+    padding-left: 212px!important;
+}
+.section2-row2-left
+{
+    padding-left: 212px!important;
+}
+.section2-img-classicaldance
+{
+    height: 350px!important;
+    border: 15px solid white;
+}
+.section2-img-classicaldance:hover
+{
+    opacity: 0.5;
+}
+.section2-img-mic
+{
+    height: 350px!important; 
+    border: 15px solid white;
+}
+.section2-img-mic:hover
+{
+    opacity: 0.5;
+}
+.section2-img-dance
+{
+    height: 350px!important;
+    border: 15px solid white;
+}
+.section2-img-dance:hover
+{
+    box-shadow: 1px 10px 10px;
+    opacity: 0.5;
+}
+.section2-img-music
+{
+    height: 350px!important;
+    border: 15px solid white;
+}
+.section2-img-music:hover
+{
+    opacity: 0.5;
     
+}
+.section3
+{
+    background: #8BDC8B;
+    height: 100%;
 }
