@@ -72,7 +72,7 @@
     background: transparent!important;
     text-align: center;
     display: block;
-    height: 883px;
+    height: 914px;
     padding-top: 114px!important;
     margin-bottom: 0px!important;
 }
@@ -233,6 +233,60 @@
 }
 .section3
 {
-    background: #8BDC8B;
+    
     height: 100%;
+}
+.section3-contain
+{
+    padding-top: 471px;
+    position: absolute;
+    margin-left: 315px;
+}
+.section3-list
+{
+    text-align: center;
+}
+.section3-l1
+{
+    color: white;
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-family: inherit;
+    display: block;
+}
+.section3-btn
+{
+    background: transparent!important;
+    border-color: white;
+    border-radius: 32px!important;
+    width: 282px;
+    height: 46px;
+    border: 2px solid!important;
+    font-size: 15px;
+    font-weight: 600!important;
+    text-transform: uppercase;
+    color:white;
+    margin-top: 39px!important;
+}
+.section3-cover-vid
+{
+    position: absolute;
+}
+.vid-cont
+{
+
+    min-width: 100%!important;
+    min-height: 100%;
+    height: auto;
+    width: 1905px;
+    
+}
+.section3-coverpage
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: green;
+    opacity: 0.9;
+    width: 1906px;
 }
